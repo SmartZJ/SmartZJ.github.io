@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-06198984","path":"/frontend/","title":"前端技术","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"frontend/index.md"}');export{t as data};
