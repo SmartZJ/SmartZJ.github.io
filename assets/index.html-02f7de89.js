@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as n}from"./app-ef3f1377.js";const o={},r=e("h1",{id:"咖啡知识",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#咖啡知识","aria-hidden":"true"},"#"),n(" 咖啡知识")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
