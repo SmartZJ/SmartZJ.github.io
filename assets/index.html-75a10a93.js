@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-bb74e66c","path":"/coffee/","title":"咖啡之旅","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"coffee/index.md"}');export{e as data};
